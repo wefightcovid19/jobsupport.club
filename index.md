@@ -21,6 +21,10 @@ permalink: /
 - consider submitting your information to our [candidates](/candidates/) database
 - check out [diversity hiring](/diversityhiring) and other [supporting resources](/socialresources) (e.g. free classes)
 
+**🤝 If you can prodive job referral or resources**
+- tell people how to get your referral by filling out this [form](https://airtable.com/shrfFrxoKAz3P4PZq){: target="_blank"}
+- contribute to [diversity hiring](/diversityhiring) and other [supporting resources](/socialresources)
+
 {% include socialshare.html %}
 
 ## News
