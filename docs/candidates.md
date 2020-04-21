@@ -14,7 +14,7 @@ We collected sheets with contact information of employees that were laid off rec
 {% include candidates_curation.html %}
 
 <br/>
-[submit your info](https://airtable.com/shrPoYV7zwl6wqR2v){: .btn target="_blank"} and become a member of Job Support Club
+[submit your info](https://airtable.com/shrmTbr5hrcWyRLIY){: .btn target="_blank"} and become a member of Job Support Club
 
 {% include candidates_member.html %}
 

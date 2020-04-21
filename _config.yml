@@ -30,6 +30,8 @@ github_username:  jxucoder
 search_enabled: false
 footer_content: "Copyright &copy; 2020 J Xu. <a href='https://linktr.ee/jobsupportclub'>Community Guidelines, Terms and Conditions of Use</a>"
 
+gg_tracking: UA-164140097-1
+
 # Build settings
 #theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
