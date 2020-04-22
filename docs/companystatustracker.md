@@ -2,7 +2,7 @@
 layout: default
 title: 📈 Company Status Tracker
 permalink: /companystatustracker/
-nav_order: 2
+nav_order: 4
 ---
 {% include socialshare.html %}
 

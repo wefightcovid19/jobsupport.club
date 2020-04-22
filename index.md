@@ -11,18 +11,20 @@ permalink: /
 
 ## Get involved
 
-**🏢 If you are hiring**
-- contact available [candidates](/candidates/) from curated layoff talent lists and our club's database
+**✋ If you are looking for jobs**
+- contact people who can submit referrals at the [Referral](/referral/) page
+- take a look at lists of [companies that are still hiring](/companieshiring/)
+- consider submitting your information to our [Talent Lists](/talentlists/) database
+- check out [diversity hiring](/diversityhiring) and other [supporting resources](/socialresources) (e.g. free classes)
+
+**🏢 If you are hiring **
+- submit referral information on the [Referral](/referral/) page
+- contact available talents from [Talent Lists](/talentlists/) from curated layoff talent lists and our club's database
 - provide company/position information at [hiring companies](companieshiring/) page
 - check out [diversity hiring](/diversityhiring) resource page
 
-**✋ If you are looking for jobs**
-- take a look at lists of [companies that are still hiring](/companieshiring/)
-- consider submitting your information to our [candidates](/candidates/) database
-- check out [diversity hiring](/diversityhiring) and other [supporting resources](/socialresources) (e.g. free classes)
-
 **🤝 If you can prodive job referral or resources**
-- tell people how to get your referral by filling out this [form](https://airtable.com/shrfFrxoKAz3P4PZq){: target="_blank"}
+- submit referral information on the [Referral](/referral/) page
 - contribute to [diversity hiring](/diversityhiring) and other [supporting resources](/socialresources)
 
 {% include socialshare.html %}
@@ -34,7 +36,7 @@ permalink: /
 {% include archive.html %}
 
 ### Contributors
-[jerry xu](http://jiaruixu.com){: target="_blank"} | data scientist @ affirm, board member of CMU TEBA
+[Jerry Xu](http://jiaruixu.com){: target="_blank"} | Data Scientist @ Affirm, Board member of CMU TEBA
 
 ### Contact
 jobsupclub@gmail.com

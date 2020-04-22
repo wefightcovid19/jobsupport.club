@@ -1,15 +1,15 @@
 ---
 layout: page
-title: 💼 Candidates
-permalink: /candidates/
-nav_order: 4
+title: 💼 Talent Lists
+permalink: /talentlists/
+nav_order: 3
 ---
 {% include socialshare.html %}
 
 We collected sheets with contact information of employees that were laid off recently. If you are not in any of the sheet, feel free to add yourself to the sheet we prepared. Your information will be shared with recruiters. 
 
 <br/>
-[submit candidate lists](https://airtable.com/shrnHrvQHaZIzZ6Je){: .btn target="_blank"} &nbsp; if you want to add sheets of affected employees, e.g. layoff sheets
+[submit talent lists](https://airtable.com/shrnHrvQHaZIzZ6Je){: .btn target="_blank"} &nbsp; if you want to add sheets of affected employees, e.g. layoff sheets
 
 {% include candidates_curation.html %}
 

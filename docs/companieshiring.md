@@ -2,7 +2,7 @@
 layout: default
 title: 📋 Companies Hiring
 permalink: /companieshiring/
-nav_order: 3
+nav_order: 4 
 ---
 {% include socialshare.html %}
 We collected sheets with contact information of employees that were laid off recently. If you are not in any of the sheet, feel free to add yourself to the sheet we prepared. Your information will be shared with recruiters. 
